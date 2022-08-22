@@ -1,0 +1,46 @@
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+    border: 1px solid gainsboro;
+}
+
+nav li {
+    float: left;
+}
+
+nav li a {
+    display: inline-block;
+    color: aliceblue;
+    text-align: center;
+    padding: 14px 15px;
+    text-decoration: none;
+}
+
+nav li:hover {
+    opacity: 0.9;
+    background-color: black;
+}
+
+h1{
+    text-align: left;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 35px;
+}
+h2 {
+    font-size: 55px;
+    color: burlywood;
+}
+
+p {
+    color: burlywood;
+    font-size: 30px;
+}
+
+footer {
+    text-align: center;
+    color: burlywood;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

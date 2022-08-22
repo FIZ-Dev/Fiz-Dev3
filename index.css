@@ -1,0 +1,47 @@
+h1{
+    text-align: left;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 35px;
+}
+
+h2 {
+    text-align: center;
+    color: burlywood;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+    border: 1px solid gainsboro;
+}
+
+nav li {
+    float: left;
+}
+
+nav li a {
+    display: inline-block;
+    color: aliceblue;
+    text-align: center;
+    padding: 14px 15px;
+    text-decoration: none;
+}
+
+nav li:hover {
+    opacity: 0.9;
+    background-color: black;
+}
+
+footer {
+    text-align: center;
+    color: burlywood;
+}
+
+marquee {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: burlywood;
+}
